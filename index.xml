@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Apostolis Karapatis</title>
-    <link>https://apostolisKar.github.io/</link>
+    <link>https://apostoliskar.github.io/project_portfolio/</link>
     <description>Recent content in Data Science Portfolio on Apostolis Karapatis</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://apostolisKar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://apostoliskar.github.io/project_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 4</title>
-      <link>https://apostolisKar.github.io/post/project-4/</link>
+      <link>https://apostoliskar.github.io/project_portfolio/post/project-4/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://apostolisKar.github.io/post/project-4/</guid>
+      <guid>https://apostoliskar.github.io/project_portfolio/post/project-4/</guid>
       <description>&lt;p&gt;In today’s competitive market, customer segmentation is a cornerstone of successful marketing. It provides the ability to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Understand customer demographics and behaviors, enabling the creation of effective strategies.&lt;/li&gt;&#xA;&lt;li&gt;Spot spending patterns and engagement trends, allowing for greater personalization.&lt;/li&gt;&#xA;&lt;li&gt;Develop tailored campaigns, improving both impact and conversion rates.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This project focused on identifying distinct customer groups based on their unique characteristics and behaviors. By doing so, the marketing team could design highly targeted and impactful campaigns tailored to each segment, based on data-driven insights.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project 3</title>
-      <link>https://apostolisKar.github.io/post/project-3/</link>
+      <link>https://apostoliskar.github.io/project_portfolio/post/project-3/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://apostolisKar.github.io/post/project-3/</guid>
+      <guid>https://apostoliskar.github.io/project_portfolio/post/project-3/</guid>
       <description>&lt;p&gt;The real estate market is highly competitive and accurate pricing is crucial for success. Brokers need a reliable starting point to estimate house prices quickly and effectively. A machine learning model would be a solution that saves a lot of time, since it can predict a first estimation of each house’s price.&lt;/p&gt;&#xA;&lt;p&gt;In this project a robust machine learning model was developed to accurately estimate initial house pricing. This tool empowers users to make informed decisions by analyzing key factors influencing property values.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project 2</title>
-      <link>https://apostolisKar.github.io/post/project-2/</link>
+      <link>https://apostoliskar.github.io/project_portfolio/post/project-2/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://apostolisKar.github.io/post/project-2/</guid>
+      <guid>https://apostoliskar.github.io/project_portfolio/post/project-2/</guid>
       <description>&lt;p&gt;This project focuses on an extensive Exploratory Data Analysis (EDA) of sales &amp;amp; profit data from a USA based SuperStore, aimed at uncovering key insights into sales and profit trends. The insights derived from the EDA were visualized and presented using PowerBi and Streamlit, offering interactive and dynamic views of the data.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Created comprehensive dashboards in PowerBi and interactive apps in Streamlit to display sales and profit data&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Enabled data-driven decision making through deep analysis of sales patterns and profitability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project 1</title>
-      <link>https://apostolisKar.github.io/post/project-1/</link>
+      <link>https://apostoliskar.github.io/project_portfolio/post/project-1/</link>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://apostolisKar.github.io/post/project-1/</guid>
+      <guid>https://apostoliskar.github.io/project_portfolio/post/project-1/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Enhanced Marketing Strategies&lt;/strong&gt;: Leveraged findings from EDA to improve product placement and promotional strategies.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Customer Insight&lt;/strong&gt;: Gained a deeper understanding of customer purchasing behaviors which can be used to tailor marketing and sales efforts.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presentation of Findings&lt;/strong&gt;: Developed a concise presentation to share insights and recommendations with stakeholders.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ApostolisKar/RMF_Market-Basket_Analysis_for_e-Commerce_SuperStore&#34;&gt;Link to GitHub Repository&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://apostolisKar.github.io/about/</link>
+      <link>https://apostoliskar.github.io/project_portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://apostolisKar.github.io/about/</guid>
+      <guid>https://apostoliskar.github.io/project_portfolio/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Hi, I’m Apostolis, a data scientist with a strong foundation in analytical problem-solving and a passion for uncovering insights from data. My journey into data science is rooted in a rich academic and professional background. I hold a Bachelor’s degree in Chemistry and a Master’s in Environmental Chemistry, where I developed a deep understanding of data analysis and experimental design.&lt;/p&gt;&#xA;&lt;p&gt;Professionally, I spent five years in the plastics industry as a Quality Assurance Manager and Project Manager. During this time, I gained valuable experience in process optimization, problem-solving, and team leadership.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://apostolisKar.github.io/contact/</link>
+      <link>https://apostoliskar.github.io/project_portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://apostolisKar.github.io/contact/</guid>
+      <guid>https://apostoliskar.github.io/project_portfolio/contact/</guid>
       <description>&lt;p&gt;Follow me on the social media platforms bellow:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Platform&lt;/th&gt;&#xA;          &lt;th&gt;URL&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Linkedin:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/apostolis-karapatis/&#34;&gt;https://www.linkedin.com/in/apostolis-karapatis/&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;GitHub:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/ApostolisKar&#34;&gt;https://github.com/ApostolisKar&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
